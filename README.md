@@ -21,7 +21,7 @@ A Python script that retrieves and displays comprehensive information about a Gi
 Run the script and enter a GitHub username when prompted:
 
 ```
-python github_repo_fetcher.py
+python main.py
 ```
 
 **Basic usage (public repositories only):**
